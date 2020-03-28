@@ -1,4 +1,7 @@
-# Plot.ly Homework - Belly Button Biodiversity
+## Author:
+# James Martin - jdmusic88
+
+## Plot.ly - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
@@ -68,10 +71,34 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 
 * Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
-### About the Data
 
-Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
+# Tools used: 
 
-- - -
+Plot.ly
 
+Javascript
+
+HTML
+
+CSS
+
+Json
+
+D3.js
+
+GitHub Pages
+
+GitHub
+
+console.log
+
+
+
+## Reference:
+
+Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/]
+
+Butler University Data Analytics and Visualization Executive Education program.
+
+Data Source and Guidelines by:
 © 2019 Trilogy Education Services
